@@ -1,0 +1,16788 @@
+report({
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -635
+          },
+          "rawMisMatchPercentage": 40.46486175115208,
+          "misMatchPercentage": "40.46",
+          "analysisTime": 436
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_1_Breakpoint_S.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -243
+          },
+          "rawMisMatchPercentage": 60.044784905180094,
+          "misMatchPercentage": "60.04",
+          "analysisTime": 708
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_2_Breakpoint_M.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 58.63182178442029,
+          "misMatchPercentage": "58.63",
+          "analysisTime": 1236
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_3_Breakpoint_L.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -170
+          },
+          "rawMisMatchPercentage": 58.56510621557829,
+          "misMatchPercentage": "58.57",
+          "analysisTime": 1645
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -250
+          },
+          "rawMisMatchPercentage": 53.780591114457835,
+          "misMatchPercentage": "53.78",
+          "analysisTime": 1559
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-right",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 35.08441840277778,
+          "misMatchPercentage": "35.08",
+          "analysisTime": 3120
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_0_Breakpoint_XS.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_1_Breakpoint_S.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_2_Breakpoint_M.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_3_Breakpoint_L.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_4_Breakpoint_XL.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_layout_landing_-_no-hero_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_layout_landing_-_no-hero_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_layout_landing_-_no-hero_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: layout landing - no-hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-no-hero",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_1_Breakpoint_S.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_2_Breakpoint_M.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_3_Breakpoint_L.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_without_image_align_left_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Landing page - hero - without image, align left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-without-image-align-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -675
+          },
+          "rawMisMatchPercentage": 38.50222222222222,
+          "misMatchPercentage": "38.50",
+          "analysisTime": 759
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_1_Breakpoint_S.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -283
+          },
+          "rawMisMatchPercentage": 60.091882682244126,
+          "misMatchPercentage": "60.09",
+          "analysisTime": 963
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_2_Breakpoint_M.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 59.560546875,
+          "misMatchPercentage": "59.56",
+          "analysisTime": 1525
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_3_Breakpoint_L.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -242
+          },
+          "rawMisMatchPercentage": 56.38244973238825,
+          "misMatchPercentage": "56.38",
+          "analysisTime": 1788
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -250
+          },
+          "rawMisMatchPercentage": 53.1640625,
+          "misMatchPercentage": "53.16",
+          "analysisTime": 1651
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Landing page - hero - image on the left",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-left",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 34.94086371527778,
+          "misMatchPercentage": "34.94",
+          "analysisTime": 2993
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_left_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -715
+          },
+          "rawMisMatchPercentage": 37.07966738197425,
+          "misMatchPercentage": "37.08",
+          "analysisTime": 809
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_1_Breakpoint_S.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -283
+          },
+          "rawMisMatchPercentage": 60.02057472313497,
+          "misMatchPercentage": "60.02",
+          "analysisTime": 1021
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_2_Breakpoint_M.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 75.63717164855073,
+          "misMatchPercentage": "75.64",
+          "analysisTime": 1623
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_3_Breakpoint_L.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -376
+          },
+          "rawMisMatchPercentage": 61.934363799283155,
+          "misMatchPercentage": "61.93",
+          "analysisTime": 2329
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -446
+          },
+          "rawMisMatchPercentage": 55.155983491715396,
+          "misMatchPercentage": "55.16",
+          "analysisTime": 2107
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Landing page - hero - image on the bottom",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-image-on-the-bottom",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 41.10780164930555,
+          "misMatchPercentage": "41.11",
+          "analysisTime": 2911
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_image_on_the_bottom_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -675
+          },
+          "rawMisMatchPercentage": 38.72277777777778,
+          "misMatchPercentage": "38.72",
+          "analysisTime": 821
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_1_Breakpoint_S.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -283
+          },
+          "rawMisMatchPercentage": 60.242865400997935,
+          "misMatchPercentage": "60.24",
+          "analysisTime": 1213
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_2_Breakpoint_M.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 71.45861639492753,
+          "misMatchPercentage": "71.46",
+          "analysisTime": 1686
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_3_Breakpoint_L.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -184
+          },
+          "rawMisMatchPercentage": 60.40530478842733,
+          "misMatchPercentage": "60.41",
+          "analysisTime": 1823
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -254
+          },
+          "rawMisMatchPercentage": 56.62177289418465,
+          "misMatchPercentage": "56.62",
+          "analysisTime": 1952
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Landing_page_-_hero_-_diagonal_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Landing_page_-_hero_-_diagonal_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Landing_page_-_hero_-_diagonal_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Landing page - hero - diagonal",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-landing-page/dc-landing-page-hero-diagonal",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 31.200222439236114,
+          "misMatchPercentage": "31.20",
+          "analysisTime": 2474
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Landing_page_-_hero_-_diagonal_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1471
+          },
+          "rawMisMatchPercentage": 22.553845653305572,
+          "misMatchPercentage": "22.55",
+          "analysisTime": 861
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -777
+          },
+          "rawMisMatchPercentage": 38.99784312564164,
+          "misMatchPercentage": "39.00",
+          "analysisTime": 1692
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -280
+          },
+          "rawMisMatchPercentage": 48.79535590277778,
+          "misMatchPercentage": "48.80",
+          "analysisTime": 1857
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -844
+          },
+          "rawMisMatchPercentage": 33.653768299002465,
+          "misMatchPercentage": "33.65",
+          "analysisTime": 2263
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -852
+          },
+          "rawMisMatchPercentage": 30.81034228788408,
+          "misMatchPercentage": "30.81",
+          "analysisTime": 2260
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -66
+          },
+          "rawMisMatchPercentage": 39.236491533864545,
+          "misMatchPercentage": "39.24",
+          "analysisTime": 3115
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1471
+          },
+          "rawMisMatchPercentage": 22.51154997397189,
+          "misMatchPercentage": "22.51",
+          "analysisTime": 940
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -777
+          },
+          "rawMisMatchPercentage": 38.96576147042565,
+          "misMatchPercentage": "38.97",
+          "analysisTime": 1586
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -280
+          },
+          "rawMisMatchPercentage": 48.76714409722222,
+          "misMatchPercentage": "48.77",
+          "analysisTime": 2353
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -816
+          },
+          "rawMisMatchPercentage": 34.24256260176913,
+          "misMatchPercentage": "34.24",
+          "analysisTime": 2338
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -824
+          },
+          "rawMisMatchPercentage": 31.370192307692307,
+          "misMatchPercentage": "31.37",
+          "analysisTime": 2125
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -66
+          },
+          "rawMisMatchPercentage": 39.21807561420983,
+          "misMatchPercentage": "39.22",
+          "analysisTime": 2880
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1211
+          },
+          "rawMisMatchPercentage": 25.98133654425045,
+          "misMatchPercentage": "25.98",
+          "analysisTime": 1211
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -571
+          },
+          "rawMisMatchPercentage": 45.607826810990844,
+          "misMatchPercentage": "45.61",
+          "analysisTime": 1515
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -114
+          },
+          "rawMisMatchPercentage": 69.41376027562862,
+          "misMatchPercentage": "69.41",
+          "analysisTime": 1930
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -600
+          },
+          "rawMisMatchPercentage": 40.10241935483871,
+          "misMatchPercentage": "40.10",
+          "analysisTime": 2280
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -670
+          },
+          "rawMisMatchPercentage": 40.133671875,
+          "misMatchPercentage": "40.13",
+          "analysisTime": 992
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 42.99660915798611,
+          "misMatchPercentage": "43.00",
+          "analysisTime": 3011
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - no-hero - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - no-hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - no-hero - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_no-hero_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - no-hero - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-no-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1211
+          },
+          "rawMisMatchPercentage": 25.98133654425045,
+          "misMatchPercentage": "25.98",
+          "analysisTime": 916
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -571
+          },
+          "rawMisMatchPercentage": 45.607826810990844,
+          "misMatchPercentage": "45.61",
+          "analysisTime": 1434
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -114
+          },
+          "rawMisMatchPercentage": 69.41376027562862,
+          "misMatchPercentage": "69.41",
+          "analysisTime": 1856
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -600
+          },
+          "rawMisMatchPercentage": 40.10241935483871,
+          "misMatchPercentage": "40.10",
+          "analysisTime": 1680
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -670
+          },
+          "rawMisMatchPercentage": 40.133671875,
+          "misMatchPercentage": "40.13",
+          "analysisTime": 1755
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Standard page - hero - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-standard-page/dc-standard-page-hero-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 42.99660915798611,
+          "misMatchPercentage": "43.00",
+          "analysisTime": 1657
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Standard_page_-_hero_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1958
+          },
+          "rawMisMatchPercentage": 7.960963455149502,
+          "misMatchPercentage": "7.96",
+          "analysisTime": 761
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1321
+          },
+          "rawMisMatchPercentage": 18.117044677942935,
+          "misMatchPercentage": "18.12",
+          "analysisTime": 1247
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1198
+          },
+          "rawMisMatchPercentage": 21.646674338999055,
+          "misMatchPercentage": "21.65",
+          "analysisTime": 1739
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1920
+          },
+          "rawMisMatchPercentage": 7.7945352704907735,
+          "misMatchPercentage": "7.79",
+          "analysisTime": 1756
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1991
+          },
+          "rawMisMatchPercentage": 6.488272133897316,
+          "misMatchPercentage": "6.49",
+          "analysisTime": 1405
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_subnav_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_subnav_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_subnav_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Unit - subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1174
+          },
+          "rawMisMatchPercentage": 10.95114348221117,
+          "misMatchPercentage": "10.95",
+          "analysisTime": 1572
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_subnav_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1958
+          },
+          "rawMisMatchPercentage": 8.022866486710964,
+          "misMatchPercentage": "8.02",
+          "analysisTime": 834
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1321
+          },
+          "rawMisMatchPercentage": 18.159490859388345,
+          "misMatchPercentage": "18.16",
+          "analysisTime": 1292
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1198
+          },
+          "rawMisMatchPercentage": 21.67599887865911,
+          "misMatchPercentage": "21.68",
+          "analysisTime": 1234
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1964
+          },
+          "rawMisMatchPercentage": 13.959649653231976,
+          "misMatchPercentage": "13.96",
+          "analysisTime": 1830
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -2034
+          },
+          "rawMisMatchPercentage": 11.27462700841622,
+          "misMatchPercentage": "11.27",
+          "analysisTime": 1681
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Unit_-_no-subnav_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Unit_-_no-subnav_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Unit_-_no-subnav_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Unit - no-subnav",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-unit/dc-tpr-unit-no-subnav",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1174
+          },
+          "rawMisMatchPercentage": 10.842384157421577,
+          "misMatchPercentage": "10.84",
+          "analysisTime": 2936
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_TPR_Unit_-_no-subnav_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Service - subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Service - subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Service - no-subnav - sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_0_Breakpoint_XS.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_1_Breakpoint_S.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_2_Breakpoint_M.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_3_Breakpoint_L.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_4_Breakpoint_XL.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_TPR_Service_-_no-subnav_-_no-sidebar_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: TPR Service - no-subnav - no-sidebar",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-layouts/dc-tpr-service/dc-tpr-service-no-subnav-no-sidebar",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_1_Breakpoint_S.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_2_Breakpoint_M.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_3_Breakpoint_L.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Suomenlinna_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Suomenlinna_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Suomenlinna_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Suomenlinna",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-suomenlinna",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_1_Breakpoint_S.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_2_Breakpoint_M.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_3_Breakpoint_L.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Copper_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Copper_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Copper_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Copper",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-copper",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_1_Breakpoint_S.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_2_Breakpoint_M.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_3_Breakpoint_L.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Gold_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Gold_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Gold_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Gold",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-gold",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_1_Breakpoint_S.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_2_Breakpoint_M.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_3_Breakpoint_L.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Coat_of_Arms_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Coat_of_Arms_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Coat_of_Arms_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Coat of Arms",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-coat-of-arms",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_1_Breakpoint_S.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_2_Breakpoint_M.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_3_Breakpoint_L.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Tram_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Tram_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Tram_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Tram",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-tram",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_1_Breakpoint_S.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_2_Breakpoint_M.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_3_Breakpoint_L.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Silver_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Silver_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Silver_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Silver",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-silver",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_1_Breakpoint_S.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_2_Breakpoint_M.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_3_Breakpoint_L.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Engel_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Engel_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Engel_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Engel",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-engel",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_1_Breakpoint_S.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_2_Breakpoint_M.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_3_Breakpoint_L.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Summer_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Summer_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Summer_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Summer",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-summer",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_1_Breakpoint_S.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_2_Breakpoint_M.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_3_Breakpoint_L.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Bus_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Bus_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Bus_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Bus",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-bus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_1_Breakpoint_S.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_2_Breakpoint_M.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_3_Breakpoint_L.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Metro_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Metro_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Metro_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Metro",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-metro",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_0_Breakpoint_XS.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_1_Breakpoint_S.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_2_Breakpoint_M.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_3_Breakpoint_L.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_4_Breakpoint_XL.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Fog_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Fog_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_DC_Fog_0_document_5_Breakpoint_XXL.png",
+        "label": "DC: Fog",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-colors/dc-fog",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_0_Breakpoint_XS.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_0_Breakpoint_XS.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -21,
+            "height": 41
+          },
+          "rawMisMatchPercentage": 85.78524554147124,
+          "misMatchPercentage": "85.79",
+          "analysisTime": 497
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_1_Breakpoint_S.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_1_Breakpoint_S.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 235,
+            "height": -29
+          },
+          "rawMisMatchPercentage": 58.62768901420217,
+          "misMatchPercentage": "58.63",
+          "analysisTime": 392
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_2_Breakpoint_M.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_2_Breakpoint_M.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 363,
+            "height": -29
+          },
+          "rawMisMatchPercentage": 47.95636107313739,
+          "misMatchPercentage": "47.96",
+          "analysisTime": 417
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_3_Breakpoint_L.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_3_Breakpoint_L.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 183,
+            "height": 107
+          },
+          "rawMisMatchPercentage": 45.93045862922866,
+          "misMatchPercentage": "45.93",
+          "analysisTime": 358
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_4_Breakpoint_XL.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_4_Breakpoint_XL.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 215,
+            "height": 107
+          },
+          "rawMisMatchPercentage": 43.30144463517658,
+          "misMatchPercentage": "43.30",
+          "analysisTime": 600
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Accordion_0_component--accordion_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Accordion_0_component--accordion_5_Breakpoint_XXL.png",
+        "selector": ".component--accordion",
+        "fileName": "full_DC_Accordion_0_component--accordion_5_Breakpoint_XXL.png",
+        "label": "DC: Accordion",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-accordion",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 519,
+            "height": 59
+          },
+          "rawMisMatchPercentage": 32.14025044722719,
+          "misMatchPercentage": "32.14",
+          "analysisTime": 578
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Accordion_0_component--accordion_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_0_Breakpoint_XS.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_0_Breakpoint_XS.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_1_Breakpoint_S.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_1_Breakpoint_S.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_2_Breakpoint_M.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_2_Breakpoint_M.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_3_Breakpoint_L.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_3_Breakpoint_L.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_4_Breakpoint_XL.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_4_Breakpoint_XL.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Announcements_0_block-announcements_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Announcements_0_block-announcements_5_Breakpoint_XXL.png",
+        "selector": "#block-announcements",
+        "fileName": "full_DC_Announcements_0_block-announcements_5_Breakpoint_XXL.png",
+        "label": "DC: Announcements",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-announcements",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_0_Breakpoint_XS.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_0_Breakpoint_XS.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_0_Breakpoint_XS.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_1_Breakpoint_S.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_1_Breakpoint_S.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_1_Breakpoint_S.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_2_Breakpoint_M.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_2_Breakpoint_M.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_2_Breakpoint_M.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_3_Breakpoint_L.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_3_Breakpoint_L.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_3_Breakpoint_L.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_4_Breakpoint_XL.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_4_Breakpoint_XL.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_4_Breakpoint_XL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_0_component--banner_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_0_component--banner_5_Breakpoint_XXL.png",
+        "selector": ".component--banner",
+        "fileName": "full_DC_Banner_0_component--banner_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_1_component--banner__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_1_component--banner__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n1",
+        "fileName": "full_DC_Banner_1_component--banner__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_2_component--banner__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_2_component--banner__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n2",
+        "fileName": "full_DC_Banner_2_component--banner__n2_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_3_component--banner__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_3_component--banner__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n3",
+        "fileName": "full_DC_Banner_3_component--banner__n3_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_4_component--banner__n4_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_4_component--banner__n4_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n4",
+        "fileName": "full_DC_Banner_4_component--banner__n4_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_5_component--banner__n5_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_5_component--banner__n5_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n5",
+        "fileName": "full_DC_Banner_5_component--banner__n5_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_6_component--banner__n6_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_6_component--banner__n6_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n6",
+        "fileName": "full_DC_Banner_6_component--banner__n6_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_7_component--banner__n7_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_7_component--banner__n7_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n7",
+        "fileName": "full_DC_Banner_7_component--banner__n7_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_8_component--banner__n8_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_8_component--banner__n8_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n8",
+        "fileName": "full_DC_Banner_8_component--banner__n8_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_9_component--banner__n9_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_9_component--banner__n9_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n9",
+        "fileName": "full_DC_Banner_9_component--banner__n9_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_10_component--banner__n10_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_10_component--banner__n10_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n10",
+        "fileName": "full_DC_Banner_10_component--banner__n10_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_11_component--banner__n11_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_11_component--banner__n11_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n11",
+        "fileName": "full_DC_Banner_11_component--banner__n11_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_12_component--banner__n12_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_12_component--banner__n12_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n12",
+        "fileName": "full_DC_Banner_12_component--banner__n12_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_13_component--banner__n13_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_13_component--banner__n13_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n13",
+        "fileName": "full_DC_Banner_13_component--banner__n13_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_14_component--banner__n14_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_14_component--banner__n14_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n14",
+        "fileName": "full_DC_Banner_14_component--banner__n14_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_15_component--banner__n15_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_15_component--banner__n15_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n15",
+        "fileName": "full_DC_Banner_15_component--banner__n15_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_16_component--banner__n16_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_16_component--banner__n16_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n16",
+        "fileName": "full_DC_Banner_16_component--banner__n16_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_17_component--banner__n17_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_17_component--banner__n17_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n17",
+        "fileName": "full_DC_Banner_17_component--banner__n17_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_18_component--banner__n18_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_18_component--banner__n18_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n18",
+        "fileName": "full_DC_Banner_18_component--banner__n18_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_19_component--banner__n19_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_19_component--banner__n19_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n19",
+        "fileName": "full_DC_Banner_19_component--banner__n19_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_20_component--banner__n20_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_20_component--banner__n20_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n20",
+        "fileName": "full_DC_Banner_20_component--banner__n20_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Banner_21_component--banner__n21_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Banner_21_component--banner__n21_5_Breakpoint_XXL.png",
+        "selector": ".component--banner.__n21",
+        "fileName": "full_DC_Banner_21_component--banner__n21_5_Breakpoint_XXL.png",
+        "label": "DC: Banner",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-banner",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_0_Breakpoint_XS.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_0_Breakpoint_XS.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_1_Breakpoint_S.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_1_Breakpoint_S.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_2_Breakpoint_M.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_2_Breakpoint_M.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_3_Breakpoint_L.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_3_Breakpoint_L.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_4_Breakpoint_XL.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_4_Breakpoint_XL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_0_component--helfi-calculator_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_0_component--helfi-calculator_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator",
+        "fileName": "full_DC_Calculator_0_component--helfi-calculator_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_1_component--helfi-calculator__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_1_component--helfi-calculator__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n1",
+        "fileName": "full_DC_Calculator_1_component--helfi-calculator__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_2_component--helfi-calculator__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_2_component--helfi-calculator__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n2",
+        "fileName": "full_DC_Calculator_2_component--helfi-calculator__n2_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_3_component--helfi-calculator__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_3_component--helfi-calculator__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n3",
+        "fileName": "full_DC_Calculator_3_component--helfi-calculator__n3_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_4_component--helfi-calculator__n4_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_4_component--helfi-calculator__n4_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n4",
+        "fileName": "full_DC_Calculator_4_component--helfi-calculator__n4_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_5_component--helfi-calculator__n5_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_5_component--helfi-calculator__n5_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n5",
+        "fileName": "full_DC_Calculator_5_component--helfi-calculator__n5_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_6_component--helfi-calculator__n6_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_6_component--helfi-calculator__n6_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n6",
+        "fileName": "full_DC_Calculator_6_component--helfi-calculator__n6_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_7_component--helfi-calculator__n7_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_7_component--helfi-calculator__n7_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n7",
+        "fileName": "full_DC_Calculator_7_component--helfi-calculator__n7_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_8_component--helfi-calculator__n8_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_8_component--helfi-calculator__n8_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n8",
+        "fileName": "full_DC_Calculator_8_component--helfi-calculator__n8_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Calculator_9_component--helfi-calculator__n9_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Calculator_9_component--helfi-calculator__n9_5_Breakpoint_XXL.png",
+        "selector": ".component--helfi-calculator.__n9",
+        "fileName": "full_DC_Calculator_9_component--helfi-calculator__n9_5_Breakpoint_XXL.png",
+        "label": "DC: Calculator",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-calculator",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_0_Breakpoint_XS.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_0_Breakpoint_XS.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_0_Breakpoint_XS.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_0_Breakpoint_XS.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_1_Breakpoint_S.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_1_Breakpoint_S.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_1_Breakpoint_S.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_1_Breakpoint_S.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_2_Breakpoint_M.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_2_Breakpoint_M.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_2_Breakpoint_M.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_2_Breakpoint_M.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_3_Breakpoint_L.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_3_Breakpoint_L.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_3_Breakpoint_L.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_3_Breakpoint_L.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_4_Breakpoint_XL.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_4_Breakpoint_XL.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_4_Breakpoint_XL.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_4_Breakpoint_XL.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_0_component--chart_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_0_component--chart_5_Breakpoint_XXL.png",
+        "selector": ".component--chart",
+        "fileName": "full_DC_Chart_0_component--chart_5_Breakpoint_XXL.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Chart_1_component--chart__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Chart_1_component--chart__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--chart.__n1",
+        "fileName": "full_DC_Chart_1_component--chart__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_0_Breakpoint_XS.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_0_Breakpoint_XS.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -392
+          },
+          "rawMisMatchPercentage": 39.99233436433162,
+          "misMatchPercentage": "39.99",
+          "analysisTime": 329
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_1_Breakpoint_S.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_1_Breakpoint_S.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -168
+          },
+          "rawMisMatchPercentage": 35.89749743983615,
+          "misMatchPercentage": "35.90",
+          "analysisTime": 270
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_2_Breakpoint_M.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_2_Breakpoint_M.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -363,
+            "height": -64
+          },
+          "rawMisMatchPercentage": 38.66219008264463,
+          "misMatchPercentage": "38.66",
+          "analysisTime": 346
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_3_Breakpoint_L.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_3_Breakpoint_L.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -183,
+            "height": -182
+          },
+          "rawMisMatchPercentage": 38.26165485278081,
+          "misMatchPercentage": "38.26",
+          "analysisTime": 386
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_4_Breakpoint_XL.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_4_Breakpoint_XL.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -215,
+            "height": -154
+          },
+          "rawMisMatchPercentage": 38.436964713943134,
+          "misMatchPercentage": "38.44",
+          "analysisTime": 157
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Columns_0_component--columns_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Columns_0_component--columns_5_Breakpoint_XXL.png",
+        "selector": ".component--columns",
+        "fileName": "full_DC_Columns_0_component--columns_5_Breakpoint_XXL.png",
+        "label": "DC: Columns",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-columns",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -519,
+            "height": -70
+          },
+          "rawMisMatchPercentage": 31.11434108527132,
+          "misMatchPercentage": "31.11",
+          "analysisTime": 408
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Columns_0_component--columns_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_0_Breakpoint_XS.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_0_Breakpoint_XS.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -624
+          },
+          "rawMisMatchPercentage": 29.711357870111044,
+          "misMatchPercentage": "29.71",
+          "analysisTime": 266
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_1_Breakpoint_S.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_1_Breakpoint_S.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -620
+          },
+          "rawMisMatchPercentage": 17.612122209681466,
+          "misMatchPercentage": "17.61",
+          "analysisTime": 398
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_2_Breakpoint_M.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_2_Breakpoint_M.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -363,
+            "height": -627
+          },
+          "rawMisMatchPercentage": 14.285827903899012,
+          "misMatchPercentage": "14.29",
+          "analysisTime": 472
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_3_Breakpoint_L.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_3_Breakpoint_L.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -183,
+            "height": -644
+          },
+          "rawMisMatchPercentage": 18.809453904873752,
+          "misMatchPercentage": "18.81",
+          "analysisTime": 346
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_4_Breakpoint_XL.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_4_Breakpoint_XL.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -215,
+            "height": -660
+          },
+          "rawMisMatchPercentage": 17.37340149478689,
+          "misMatchPercentage": "17.37",
+          "analysisTime": 276
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Contact_card_listing_0_component--contact-card-listing_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Contact_card_listing_0_component--contact-card-listing_5_Breakpoint_XXL.png",
+        "selector": ".component--contact-card-listing",
+        "fileName": "full_DC_Contact_card_listing_0_component--contact-card-listing_5_Breakpoint_XXL.png",
+        "label": "DC: Contact card listing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-contact-card-listing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -519,
+            "height": -665
+          },
+          "rawMisMatchPercentage": 11.22311592935828,
+          "misMatchPercentage": "11.22",
+          "analysisTime": 413
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Contact_card_listing_0_component--contact-card-listing_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_0_Breakpoint_XS.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_0_Breakpoint_XS.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_0_Breakpoint_XS.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_0_Breakpoint_XS.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_0_Breakpoint_XS.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_0_Breakpoint_XS.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_0_Breakpoint_XS.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_0_Breakpoint_XS.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_1_Breakpoint_S.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_1_Breakpoint_S.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_1_Breakpoint_S.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_1_Breakpoint_S.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_1_Breakpoint_S.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_1_Breakpoint_S.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_1_Breakpoint_S.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_1_Breakpoint_S.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_2_Breakpoint_M.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_2_Breakpoint_M.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_2_Breakpoint_M.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_2_Breakpoint_M.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_2_Breakpoint_M.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_2_Breakpoint_M.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_2_Breakpoint_M.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_2_Breakpoint_M.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_3_Breakpoint_L.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_3_Breakpoint_L.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_3_Breakpoint_L.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_3_Breakpoint_L.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_3_Breakpoint_L.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_3_Breakpoint_L.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_3_Breakpoint_L.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_3_Breakpoint_L.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_4_Breakpoint_XL.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_4_Breakpoint_XL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_4_Breakpoint_XL.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_4_Breakpoint_XL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_4_Breakpoint_XL.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_4_Breakpoint_XL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_4_Breakpoint_XL.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_4_Breakpoint_XL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_0_component--content-cards_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_0_component--content-cards_5_Breakpoint_XXL.png",
+        "selector": ".component--content-cards",
+        "fileName": "full_DC_Content_cards_0_component--content-cards_5_Breakpoint_XXL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_1_component--content-cards__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_1_component--content-cards__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--content-cards.__n1",
+        "fileName": "full_DC_Content_cards_1_component--content-cards__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_2_component--content-cards__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_2_component--content-cards__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--content-cards.__n2",
+        "fileName": "full_DC_Content_cards_2_component--content-cards__n2_5_Breakpoint_XXL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Content_cards_3_component--content-cards__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Content_cards_3_component--content-cards__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--content-cards.__n3",
+        "fileName": "full_DC_Content_cards_3_component--content-cards__n3_5_Breakpoint_XXL.png",
+        "label": "DC: Content cards",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-content-cards",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_0_Breakpoint_XS.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_0_Breakpoint_XS.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_1_Breakpoint_S.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_1_Breakpoint_S.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_2_Breakpoint_M.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_2_Breakpoint_M.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_3_Breakpoint_L.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_3_Breakpoint_L.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_4_Breakpoint_XL.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_4_Breakpoint_XL.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Event_list_0_component--event-list_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Event_list_0_component--event-list_5_Breakpoint_XXL.png",
+        "selector": ".component--event-list",
+        "fileName": "full_DC_Event_list_0_component--event-list_5_Breakpoint_XXL.png",
+        "label": "DC: Event list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-event-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_0_Breakpoint_XS.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_0_Breakpoint_XS.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": 10
+          },
+          "rawMisMatchPercentage": 88.84307543051176,
+          "misMatchPercentage": "88.84",
+          "analysisTime": 311
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_1_Breakpoint_S.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_1_Breakpoint_S.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -137
+          },
+          "rawMisMatchPercentage": 39.05043768955059,
+          "misMatchPercentage": "39.05",
+          "analysisTime": 463
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_2_Breakpoint_M.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_2_Breakpoint_M.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -363,
+            "height": -244
+          },
+          "rawMisMatchPercentage": 25.26348039215686,
+          "misMatchPercentage": "25.26",
+          "analysisTime": 515
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_3_Breakpoint_L.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_3_Breakpoint_L.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -183,
+            "height": -124
+          },
+          "rawMisMatchPercentage": 44.31640242708945,
+          "misMatchPercentage": "44.32",
+          "analysisTime": 416
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_4_Breakpoint_XL.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_4_Breakpoint_XL.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -215,
+            "height": -145
+          },
+          "rawMisMatchPercentage": 39.67687164137303,
+          "misMatchPercentage": "39.68",
+          "analysisTime": 632
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_0_component--image_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_0_component--image_5_Breakpoint_XXL.png",
+        "selector": ".component--image",
+        "fileName": "full_DC_Image_0_component--image_5_Breakpoint_XXL.png",
+        "label": "DC: Image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -519,
+            "height": -348
+          },
+          "rawMisMatchPercentage": 17.177865313233845,
+          "misMatchPercentage": "17.18",
+          "analysisTime": 481
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_0_component--image_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_0_Breakpoint_XS.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_0_Breakpoint_XS.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -15857
+          },
+          "rawMisMatchPercentage": 1.633083500501915,
+          "misMatchPercentage": "1.63",
+          "analysisTime": 1437
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_1_Breakpoint_S.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_1_Breakpoint_S.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -7735
+          },
+          "rawMisMatchPercentage": 1.949626088405616,
+          "misMatchPercentage": "1.95",
+          "analysisTime": 1636
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_2_Breakpoint_M.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_2_Breakpoint_M.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -427,
+            "height": -8784
+          },
+          "rawMisMatchPercentage": 1.292904005524862,
+          "misMatchPercentage": "1.29",
+          "analysisTime": 1798
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_3_Breakpoint_L.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_3_Breakpoint_L.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -651,
+            "height": -8578
+          },
+          "rawMisMatchPercentage": 1.0227113151252534,
+          "misMatchPercentage": "1.02",
+          "analysisTime": 2186
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_4_Breakpoint_XL.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_4_Breakpoint_XL.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -683,
+            "height": -8730
+          },
+          "rawMisMatchPercentage": 0.9738377647009782,
+          "misMatchPercentage": "0.97",
+          "analysisTime": 2189
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_upper_content_area_0_main-content_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_upper_content_area_0_main-content_5_Breakpoint_XXL.png",
+        "selector": ".main-content",
+        "fileName": "full_DC_Image_Gallery_upper_content_area_0_main-content_5_Breakpoint_XXL.png",
+        "label": "DC: Image Gallery, upper content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -987,
+            "height": -10498
+          },
+          "rawMisMatchPercentage": 0.6276639445183185,
+          "misMatchPercentage": "0.63",
+          "analysisTime": 196
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_upper_content_area_0_main-content_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_0_Breakpoint_XS.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_0_Breakpoint_XS.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -15906
+          },
+          "rawMisMatchPercentage": 1.6279721730401122,
+          "misMatchPercentage": "1.63",
+          "analysisTime": 1426
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_1_Breakpoint_S.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_1_Breakpoint_S.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -7614
+          },
+          "rawMisMatchPercentage": 1.9790344754653129,
+          "misMatchPercentage": "1.98",
+          "analysisTime": 1387
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_2_Breakpoint_M.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_2_Breakpoint_M.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -427,
+            "height": -8662
+          },
+          "rawMisMatchPercentage": 1.3083399837589607,
+          "misMatchPercentage": "1.31",
+          "analysisTime": 2102
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_3_Breakpoint_L.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_3_Breakpoint_L.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -651,
+            "height": -8402
+          },
+          "rawMisMatchPercentage": 1.0453959316432706,
+          "misMatchPercentage": "1.05",
+          "analysisTime": 1600
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_4_Breakpoint_XL.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_4_Breakpoint_XL.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -683,
+            "height": -8512
+          },
+          "rawMisMatchPercentage": 0.9997249871838688,
+          "misMatchPercentage": "1.00",
+          "analysisTime": 2052
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Image_Gallery_lower_content_area_0_lower-content_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Image_Gallery_lower_content_area_0_lower-content_5_Breakpoint_XXL.png",
+        "selector": ".lower-content",
+        "fileName": "full_DC_Image_Gallery_lower_content_area_0_lower-content_5_Breakpoint_XXL.png",
+        "label": "DC: Image Gallery, lower content area",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-image-gallery",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -1579,
+            "height": -10018
+          },
+          "rawMisMatchPercentage": 0.455101168481784,
+          "misMatchPercentage": "0.46",
+          "analysisTime": 265
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Image_Gallery_lower_content_area_0_lower-content_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_0_Breakpoint_XS.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_0_Breakpoint_XS.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -38
+          },
+          "rawMisMatchPercentage": 86.62988115449916,
+          "misMatchPercentage": "86.63",
+          "analysisTime": 283
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_1_Breakpoint_S.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_1_Breakpoint_S.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -177
+          },
+          "rawMisMatchPercentage": 35.49778969149737,
+          "misMatchPercentage": "35.50",
+          "analysisTime": 475
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_2_Breakpoint_M.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_2_Breakpoint_M.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -427,
+            "height": -284
+          },
+          "rawMisMatchPercentage": 21.43371212121212,
+          "misMatchPercentage": "21.43",
+          "analysisTime": 554
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_3_Breakpoint_L.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_3_Breakpoint_L.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -651,
+            "height": -388
+          },
+          "rawMisMatchPercentage": 13.969400463648022,
+          "misMatchPercentage": "13.97",
+          "analysisTime": 619
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_4_Breakpoint_XL.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_4_Breakpoint_XL.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -683,
+            "height": -409
+          },
+          "rawMisMatchPercentage": 13.103587962962962,
+          "misMatchPercentage": "13.10",
+          "analysisTime": 541
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Liftup_with_image_0_component--liftup-with-image_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Liftup_with_image_0_component--liftup-with-image_5_Breakpoint_XXL.png",
+        "selector": ".component--liftup-with-image",
+        "fileName": "full_DC_Liftup_with_image_0_component--liftup-with-image_5_Breakpoint_XXL.png",
+        "label": "DC: Liftup with image",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-liftup-with-image",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -1579,
+            "height": -465
+          },
+          "rawMisMatchPercentage": 6.43610351117191,
+          "misMatchPercentage": "6.44",
+          "analysisTime": 741
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Liftup_with_image_0_component--liftup-with-image_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_0_Breakpoint_XS.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_0_Breakpoint_XS.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_1_Breakpoint_S.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_1_Breakpoint_S.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_2_Breakpoint_M.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_2_Breakpoint_M.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_3_Breakpoint_L.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_3_Breakpoint_L.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_4_Breakpoint_XL.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_4_Breakpoint_XL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_0_component--list-of-links_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_0_component--list-of-links_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links",
+        "fileName": "full_DC_List_of_links_0_component--list-of-links_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_1_component--list-of-links__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_1_component--list-of-links__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n1",
+        "fileName": "full_DC_List_of_links_1_component--list-of-links__n1_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_2_component--list-of-links__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_2_component--list-of-links__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n2",
+        "fileName": "full_DC_List_of_links_2_component--list-of-links__n2_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_3_component--list-of-links__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_3_component--list-of-links__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n3",
+        "fileName": "full_DC_List_of_links_3_component--list-of-links__n3_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_4_component--list-of-links__n4_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_4_component--list-of-links__n4_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n4",
+        "fileName": "full_DC_List_of_links_4_component--list-of-links__n4_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_5_component--list-of-links__n5_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_5_component--list-of-links__n5_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n5",
+        "fileName": "full_DC_List_of_links_5_component--list-of-links__n5_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_6_component--list-of-links__n6_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_6_component--list-of-links__n6_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n6",
+        "fileName": "full_DC_List_of_links_6_component--list-of-links__n6_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_7_component--list-of-links__n7_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_7_component--list-of-links__n7_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n7",
+        "fileName": "full_DC_List_of_links_7_component--list-of-links__n7_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_List_of_links_8_component--list-of-links__n8_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_List_of_links_8_component--list-of-links__n8_5_Breakpoint_XXL.png",
+        "selector": ".component--list-of-links.__n8",
+        "fileName": "full_DC_List_of_links_8_component--list-of-links__n8_5_Breakpoint_XXL.png",
+        "label": "DC: List of links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-list-of-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_0_Breakpoint_XS.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_0_Breakpoint_XS.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 1.549172794117647,
+          "misMatchPercentage": "1.55",
+          "analysisTime": 250
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_0_Breakpoint_XS.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_0_Breakpoint_XS.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.7803240740740741,
+          "misMatchPercentage": "0.78",
+          "analysisTime": 411
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_1_Breakpoint_S.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_1_Breakpoint_S.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 1.2050028344671202,
+          "misMatchPercentage": "1.21",
+          "analysisTime": 328
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_1_Breakpoint_S.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_1_Breakpoint_S.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.7253702566202567,
+          "misMatchPercentage": "0.73",
+          "analysisTime": 327
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_2_Breakpoint_M.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_2_Breakpoint_M.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.807853830951657,
+          "misMatchPercentage": "0.81",
+          "analysisTime": 394
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_2_Breakpoint_M.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_2_Breakpoint_M.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.5588324060466092,
+          "misMatchPercentage": "0.56",
+          "analysisTime": 567
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_3_Breakpoint_L.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_3_Breakpoint_L.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.8770889209820507,
+          "misMatchPercentage": "0.88",
+          "analysisTime": 408
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_3_Breakpoint_L.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_3_Breakpoint_L.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.5795051799345693,
+          "misMatchPercentage": "0.58",
+          "analysisTime": 357
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_4_Breakpoint_XL.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_4_Breakpoint_XL.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.8495703437250199,
+          "misMatchPercentage": "0.85",
+          "analysisTime": 418
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_4_Breakpoint_XL.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_4_Breakpoint_XL.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.5706069472779984,
+          "misMatchPercentage": "0.57",
+          "analysisTime": 440
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_0_component--map_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_0_component--map_5_Breakpoint_XXL.png",
+        "selector": ".component--map",
+        "fileName": "full_DC_Map_0_component--map_5_Breakpoint_XXL.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.6051148523327151,
+          "misMatchPercentage": "0.61",
+          "analysisTime": 407
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_0_component--map_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Map_1_component--map__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Map_1_component--map__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--map.__n1",
+        "fileName": "full_DC_Map_1_component--map__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Map",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-map",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -20
+          },
+          "rawMisMatchPercentage": 0.43751139352587304,
+          "misMatchPercentage": "0.44",
+          "analysisTime": 568
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Map_1_component--map__n1_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_0_Breakpoint_XS.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_0_Breakpoint_XS.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_0_Breakpoint_XS.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_0_Breakpoint_XS.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_1_Breakpoint_S.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_1_Breakpoint_S.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_1_Breakpoint_S.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_1_Breakpoint_S.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_2_Breakpoint_M.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_2_Breakpoint_M.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_2_Breakpoint_M.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_2_Breakpoint_M.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_3_Breakpoint_L.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_3_Breakpoint_L.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_3_Breakpoint_L.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_3_Breakpoint_L.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_4_Breakpoint_XL.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_4_Breakpoint_XL.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_4_Breakpoint_XL.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_4_Breakpoint_XL.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_0_component--news-list_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_0_component--news-list_5_Breakpoint_XXL.png",
+        "selector": ".component--news-list",
+        "fileName": "full_DC_News_list_0_component--news-list_5_Breakpoint_XXL.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_News_list_1_component--news-list__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_News_list_1_component--news-list__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--news-list.__n1",
+        "fileName": "full_DC_News_list_1_component--news-list__n1_5_Breakpoint_XXL.png",
+        "label": "DC: News list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-news-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_0_Breakpoint_XS.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_0_Breakpoint_XS.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_1_Breakpoint_S.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_1_Breakpoint_S.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_1_Breakpoint_S.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_2_Breakpoint_M.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_2_Breakpoint_M.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_2_Breakpoint_M.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_3_Breakpoint_L.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_3_Breakpoint_L.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_3_Breakpoint_L.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_4_Breakpoint_XL.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_4_Breakpoint_XL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_0_component--org-chart_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_0_component--org-chart_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart",
+        "fileName": "full_DC_Organization_Chart_0_component--org-chart_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_1_component--org-chart__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_1_component--org-chart__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n1",
+        "fileName": "full_DC_Organization_Chart_1_component--org-chart__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_2_component--org-chart__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_2_component--org-chart__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n2",
+        "fileName": "full_DC_Organization_Chart_2_component--org-chart__n2_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_3_component--org-chart__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_3_component--org-chart__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n3",
+        "fileName": "full_DC_Organization_Chart_3_component--org-chart__n3_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_4_component--org-chart__n4_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_4_component--org-chart__n4_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n4",
+        "fileName": "full_DC_Organization_Chart_4_component--org-chart__n4_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_5_component--org-chart__n5_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_5_component--org-chart__n5_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n5",
+        "fileName": "full_DC_Organization_Chart_5_component--org-chart__n5_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_6_component--org-chart__n6_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_6_component--org-chart__n6_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n6",
+        "fileName": "full_DC_Organization_Chart_6_component--org-chart__n6_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_7_component--org-chart__n7_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_7_component--org-chart__n7_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n7",
+        "fileName": "full_DC_Organization_Chart_7_component--org-chart__n7_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_8_component--org-chart__n8_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_8_component--org-chart__n8_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n8",
+        "fileName": "full_DC_Organization_Chart_8_component--org-chart__n8_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Organization_Chart_9_component--org-chart__n9_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Organization_Chart_9_component--org-chart__n9_5_Breakpoint_XXL.png",
+        "selector": ".component--org-chart.__n9",
+        "fileName": "full_DC_Organization_Chart_9_component--org-chart__n9_5_Breakpoint_XXL.png",
+        "label": "DC: Organization Chart",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-org-chart",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_0_Breakpoint_XS.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_0_Breakpoint_XS.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_1_Breakpoint_S.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_1_Breakpoint_S.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_2_Breakpoint_M.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_2_Breakpoint_M.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_3_Breakpoint_L.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_3_Breakpoint_L.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_4_Breakpoint_XL.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_4_Breakpoint_XL.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Phasing_0_components_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Phasing_0_components_5_Breakpoint_XXL.png",
+        "selector": ".components",
+        "fileName": "full_DC_Phasing_0_components_5_Breakpoint_XXL.png",
+        "label": "DC: Phasing",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-phasing",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_0_Breakpoint_XS.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_0_Breakpoint_XS.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_0_Breakpoint_XS.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_0_Breakpoint_XS.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_1_Breakpoint_S.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_1_Breakpoint_S.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_1_Breakpoint_S.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_1_Breakpoint_S.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_2_Breakpoint_M.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_2_Breakpoint_M.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_2_Breakpoint_M.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_2_Breakpoint_M.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_3_Breakpoint_L.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_3_Breakpoint_L.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_3_Breakpoint_L.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_3_Breakpoint_L.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_4_Breakpoint_XL.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_4_Breakpoint_XL.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_4_Breakpoint_XL.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_4_Breakpoint_XL.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_0_component--popular-services_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_0_component--popular-services_5_Breakpoint_XXL.png",
+        "selector": ".component--popular-services",
+        "fileName": "full_DC_Popular_services_0_component--popular-services_5_Breakpoint_XXL.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Popular_services_1_component--popular-services__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Popular_services_1_component--popular-services__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--popular-services.__n1",
+        "fileName": "full_DC_Popular_services_1_component--popular-services__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Popular services",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-popular-services",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_0_Breakpoint_XS.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_0_Breakpoint_XS.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_1_Breakpoint_S.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_1_Breakpoint_S.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_2_Breakpoint_M.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_2_Breakpoint_M.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_3_Breakpoint_L.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_3_Breakpoint_L.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_4_Breakpoint_XL.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_4_Breakpoint_XL.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Remote_video_0_component--remote-video_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Remote_video_0_component--remote-video_5_Breakpoint_XXL.png",
+        "selector": ".component--remote-video",
+        "fileName": "full_DC_Remote_video_0_component--remote-video_5_Breakpoint_XXL.png",
+        "label": "DC: Remote video",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-remote-video",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_0_Breakpoint_XS.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_0_Breakpoint_XS.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_1_Breakpoint_S.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_1_Breakpoint_S.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_2_Breakpoint_M.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_2_Breakpoint_M.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_3_Breakpoint_L.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_3_Breakpoint_L.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_4_Breakpoint_XL.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_4_Breakpoint_XL.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Service_list_0_component--service-list_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Service_list_0_component--service-list_5_Breakpoint_XXL.png",
+        "selector": ".component--service-list",
+        "fileName": "full_DC_Service_list_0_component--service-list_5_Breakpoint_XXL.png",
+        "label": "DC: Service list",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-service-list",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_0_Breakpoint_XS.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_0_Breakpoint_XS.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_0_Breakpoint_XS.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_0_Breakpoint_XS.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_1_Breakpoint_S.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_1_Breakpoint_S.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_1_Breakpoint_S.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_1_Breakpoint_S.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_2_Breakpoint_M.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_2_Breakpoint_M.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_2_Breakpoint_M.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_2_Breakpoint_M.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_3_Breakpoint_L.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_3_Breakpoint_L.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_3_Breakpoint_L.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_3_Breakpoint_L.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_4_Breakpoint_XL.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_4_Breakpoint_XL.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_4_Breakpoint_XL.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_4_Breakpoint_XL.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_0_sidebar-text_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_0_sidebar-text_5_Breakpoint_XXL.png",
+        "selector": ".sidebar-text",
+        "fileName": "full_DC_Sidebar_text_0_sidebar-text_5_Breakpoint_XXL.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Sidebar_text_1_sidebar-text__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Sidebar_text_1_sidebar-text__n1_5_Breakpoint_XXL.png",
+        "selector": ".sidebar-text.__n1",
+        "fileName": "full_DC_Sidebar_text_1_sidebar-text__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Sidebar text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-sidebar-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_0_Breakpoint_XS.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_0_Breakpoint_XS.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_1_Breakpoint_S.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_1_Breakpoint_S.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_2_Breakpoint_M.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_2_Breakpoint_M.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_3_Breakpoint_L.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_3_Breakpoint_L.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_4_Breakpoint_XL.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_4_Breakpoint_XL.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Text_0_components_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Text_0_components_5_Breakpoint_XXL.png",
+        "selector": ".components",
+        "fileName": "full_DC_Text_0_components_5_Breakpoint_XXL.png",
+        "label": "DC: Text",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-text",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_0_Breakpoint_XS.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_0_Breakpoint_XS.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_0_Breakpoint_XS.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_0_Breakpoint_XS.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_0_Breakpoint_XS.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_0_Breakpoint_XS.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_0_Breakpoint_XS.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_0_Breakpoint_XS.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_0_Breakpoint_XS.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_0_Breakpoint_XS.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_1_Breakpoint_S.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_1_Breakpoint_S.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_1_Breakpoint_S.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_1_Breakpoint_S.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_1_Breakpoint_S.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_1_Breakpoint_S.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_1_Breakpoint_S.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_1_Breakpoint_S.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_1_Breakpoint_S.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_1_Breakpoint_S.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_2_Breakpoint_M.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_2_Breakpoint_M.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_2_Breakpoint_M.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_2_Breakpoint_M.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_2_Breakpoint_M.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_2_Breakpoint_M.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_2_Breakpoint_M.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_2_Breakpoint_M.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_2_Breakpoint_M.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_2_Breakpoint_M.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_3_Breakpoint_L.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_3_Breakpoint_L.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_3_Breakpoint_L.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_3_Breakpoint_L.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_3_Breakpoint_L.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_3_Breakpoint_L.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_3_Breakpoint_L.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_3_Breakpoint_L.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_3_Breakpoint_L.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_3_Breakpoint_L.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_4_Breakpoint_XL.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_4_Breakpoint_XL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_4_Breakpoint_XL.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_4_Breakpoint_XL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_4_Breakpoint_XL.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_4_Breakpoint_XL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_4_Breakpoint_XL.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_4_Breakpoint_XL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_4_Breakpoint_XL.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_4_Breakpoint_XL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_0_component--target-group-links_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_0_component--target-group-links_5_Breakpoint_XXL.png",
+        "selector": ".component--target-group-links",
+        "fileName": "full_DC_Target_group_links_0_component--target-group-links_5_Breakpoint_XXL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_1_component--target-group-links__n1_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_1_component--target-group-links__n1_5_Breakpoint_XXL.png",
+        "selector": ".component--target-group-links.__n1",
+        "fileName": "full_DC_Target_group_links_1_component--target-group-links__n1_5_Breakpoint_XXL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_2_component--target-group-links__n2_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_2_component--target-group-links__n2_5_Breakpoint_XXL.png",
+        "selector": ".component--target-group-links.__n2",
+        "fileName": "full_DC_Target_group_links_2_component--target-group-links__n2_5_Breakpoint_XXL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_3_component--target-group-links__n3_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_3_component--target-group-links__n3_5_Breakpoint_XXL.png",
+        "selector": ".component--target-group-links.__n3",
+        "fileName": "full_DC_Target_group_links_3_component--target-group-links__n3_5_Breakpoint_XXL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Target_group_links_4_component--target-group-links__n4_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Target_group_links_4_component--target-group-links__n4_5_Breakpoint_XXL.png",
+        "selector": ".component--target-group-links.__n4",
+        "fileName": "full_DC_Target_group_links_4_component--target-group-links__n4_5_Breakpoint_XXL.png",
+        "label": "DC: Target group links",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-target-group-links",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_0_Breakpoint_XS.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_0_Breakpoint_XS.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 21,
+            "height": -752
+          },
+          "rawMisMatchPercentage": 25.565049058299582,
+          "misMatchPercentage": "25.57",
+          "analysisTime": 109
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_1_Breakpoint_S.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_1_Breakpoint_S.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -235,
+            "height": -363
+          },
+          "rawMisMatchPercentage": 24.616620296767355,
+          "misMatchPercentage": "24.62",
+          "analysisTime": 132
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_2_Breakpoint_M.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_2_Breakpoint_M.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -363,
+            "height": -470
+          },
+          "rawMisMatchPercentage": 16.934867527173914,
+          "misMatchPercentage": "16.93",
+          "analysisTime": 135
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_3_Breakpoint_L.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_3_Breakpoint_L.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -183,
+            "height": -508
+          },
+          "rawMisMatchPercentage": 21.655867211077577,
+          "misMatchPercentage": "21.66",
+          "analysisTime": 144
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_4_Breakpoint_XL.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_4_Breakpoint_XL.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -215,
+            "height": -508
+          },
+          "rawMisMatchPercentage": 20.412739575781234,
+          "misMatchPercentage": "20.41",
+          "analysisTime": 59
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_DC_Unit_search_0_component--unit-search_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_DC_Unit_search_0_component--unit-search_5_Breakpoint_XXL.png",
+        "selector": ".component--unit-search",
+        "fileName": "full_DC_Unit_search_0_component--unit-search_5_Breakpoint_XXL.png",
+        "label": "DC: Unit search",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/dc-components/dc-unit-search",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": -519,
+            "height": -562
+          },
+          "rawMisMatchPercentage": 12.333305246601507,
+          "misMatchPercentage": "12.33",
+          "analysisTime": 79
+        },
+        "diffImage": "../bitmaps_test/20260522-130946/failed_diff_full_DC_Unit_search_0_component--unit-search_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_0_Breakpoint_XS.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_1_Breakpoint_S.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_2_Breakpoint_M.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_3_Breakpoint_L.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_4_Breakpoint_XL.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_0_document_5_Breakpoint_XXL.png",
+        "label": "Form input fields",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_0_Breakpoint_XS.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_1_Breakpoint_S.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_2_Breakpoint_M.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_3_Breakpoint_L.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_4_Breakpoint_XL.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Form_input_fields_-_focused_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_Form_input_fields_-_focused_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Form_input_fields_-_focused_0_document_5_Breakpoint_XXL.png",
+        "label": "Form input fields - focused",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/helfi-test-content/helfi-test-content-form?focus",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_0_Breakpoint_XS.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_1_Breakpoint_S.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_2_Breakpoint_M.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_3_Breakpoint_L.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_4_Breakpoint_XL.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_User_login_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_User_login_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_User_login_0_document_5_Breakpoint_XXL.png",
+        "label": "User login",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/user/login",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_0_Breakpoint_XS.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_1_Breakpoint_S.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_2_Breakpoint_M.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_3_Breakpoint_L.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_4_Breakpoint_XL.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_404_page_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260522-130946/full_404_page_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_404_page_0_document_5_Breakpoint_XXL.png",
+        "label": "404 page",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://mysite:8080/en/abcd1234",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "full"
+});
